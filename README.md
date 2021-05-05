@@ -1,7 +1,7 @@
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
 
-this is just a personal copy of 
+this is just a personal copy of https://github.com/AndrewGls/CarND-Path-Planning-Project
 ### 主要问题
 1. 在ubuntu 20.04系统下simulator无法运行：
 主要是因为20.04的桌面系统不是unity，使用sudo apt install ubuntu-unity-desktop安装unity桌面，退出系统后重新登录在输入密码的右下角选择unity进入系统即可；
